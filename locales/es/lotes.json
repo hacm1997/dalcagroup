@@ -1,0 +1,104 @@
+{
+  "title": "Somos tu mejor opción de inversión, trazamos caminos que te lleven a construir y valorizar tu futuro.",
+  "title2": "Separa tu lote campestre con $500 mil pesos",
+  "text": "Nuestros Lotes Disponibles",
+  "areaName": "Área",
+  "details": {
+    "area": "Área total",
+    "price": "Valor",
+    "location": "Ubicación",
+    "share": "Compartir redes sociales",
+    "seeMore": "Ver más fotos"
+  },
+  "filter": {
+    "name":"Filtros",
+    "priceText": "Precio",
+    "price_step": "5000000",
+    "minText": "Mínimo",
+    "minValue": "75000000",
+    "maxText": "Máximo",
+    "maxValue": "120000000",
+    "areaText": "Área sólo 300 m²"
+  },
+  "banners": [
+    {
+      "img": "/images/lotes/banner-lotes/lotes-campestres.jpg",
+      "alt": "lotes campestres",
+      "title": "lotes campestres"
+    },
+    {
+      "img": "/images/lotes/banner-lotes/invierte.jpg",
+      "alt": "invierte",
+      "title": "invierte"
+    },
+    {
+      "img": "/images/lotes/banner-lotes/construye-tu-futuro.jpg",
+      "alt": "construye tu futuro",
+      "title": "construye tu futuro"
+    }
+  ],
+  "lotes": [
+    {
+      "id": 1,
+      "name": "Lotes Campestre Los Tamarindos",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 75000000,
+      "description": "Construir tu futuro en un lote bien ubicado es una excelente inversión a largo plazo, en el cual obtendrás una mejor calidad de vida. Nuestros lotes cuentan con acceso a los servicios necesarios como el transporte,  seguridad, infraestructura, educación y entretenimiento. Además, disfrutarás de unas increíbles amenidades como: Piscina colectiva, club house con 2 salones comunales, gimnasio, sauna, baño turco, billar, canchas, zonas verdes, portería de lujo estilo vintage, servicios de luz y agua.",
+      "images": [{
+          "banner": "/images/lotes/tamarindos/tamarindos-img1.jpg",
+          "detail_banner": "/images/lotes/tamarindos/tamarindos-img1.jpg",
+          "alt": "los tamariandos",
+          "gallery": [
+            {"img": "/images/lotes/tamarindos/tamarindos-img2.jpg", "alt": "los tamariandos vista 1"},
+            {"img": "/images/lotes/tamarindos/tamarindos-img3.jpg", "alt": "los tamariandos vista 2"},
+            {"img": "/images/lotes/tamarindos/tamarindos-img1.jpg", "alt": "los tamariandos"},
+            {"img": "/images/lotes/tamarindos/tamarindos-img2.jpg", "alt": "los tamariandos vista 1"}
+          ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 2,
+      "name": "Lote + Kiosko + Piscina",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 100000000,
+      "description": "En Dalca Group pensamos en tu entretenimiento y relajación. Tu hogar soñado contará con kiosko y piscina que te permitirá disfrutar de espacios al aire libre, como senderos para caminar y correr. Estos espacios permiten agregan carácter y belleza a la propiedad, lo que puede ser un excelente punto de venta para los propietarios.",
+      "images": [{
+        "banner": "/images/lotes/lote-kiosko-piscina/lkp1.jpg",
+        "detail_banner": "/images/lotes/lote-kiosko-piscina/lkp1.jpg",
+        "alt": "Lote-Kiosko-Piscina",
+        "gallery": [
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp2.jpg", "alt": "Lote Kiosko Piscina Vista 1"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp3.jpg", "alt": "Lote Kiosko Piscina Vista 2"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp4.jpg", "alt": "Lote Kiosko Piscina Vista 3"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp5.jpg", "alt": "Lote Kiosko Piscina Vista 4"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp6.jpg", "alt": "Lote Kiosko Piscina Vista 5"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp7.jpg", "alt": "Lote Kiosko Piscina Vista 6"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 3,
+      "name": "Lote + Mini Chalet + Jacuzzi",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 120000000,
+      "description": "Ubicado a las afueras de Cartagena en una exclusiva zona de alta valorización, es un proyecto que reúne todo el encanto para que disfrutes de la naturaleza, tranquilidad y una extraordinaria vista desde tu lugar de descanso.",
+      "images": [{
+        "banner": "/images/lotes/mini-chalet/mini-chalet-1.jpg",
+        "detail_banner": "/images/lotes/mini-chalet/mini-chalet-1.jpg",
+        "alt:": "Mini Chalet",
+        "gallery": [
+          {"img": "/images/lotes/mini-chalet/mini-chalet-1.jpg","alt": "mini-chalet"},
+          {"img": "/images/lotes/mini-chalet/mini-chalet-2.jpg","alt": "mini-chalet"},
+          {"img": "/images/lotes/mini-chalet/mini-chalet-2.jpg","alt": "mini-chalet"},
+          {"img": "/images/lotes/mini-chalet/mini-chalet-1.jpg","alt": "mini-chalet"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    }
+  ]
+}

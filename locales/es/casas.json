@@ -1,0 +1,231 @@
+{
+  "title": "Casas con áreas de 200 m² desde $165.000.000",
+  "title2": "Con diseños exclusivos a través de nuestra arquitectura",
+  "text": "Nuestras Casas Disponibles",
+  "areaName": "Área",
+  "details": {
+    "area": "Área total",
+    "price": "Valor",
+    "location": "Ubicación",
+    "share": "Compartir redes sociales",
+    "seeMore": "Ver más fotos"
+  },
+  "filter": {
+    "name":"Filtros",
+    "priceText": "Precio",
+    "price_step": "5000000",
+    "minText": "Mínimo",
+    "minValue": "125000000",
+    "maxText": "Máximo",
+    "maxValue": "350000000",
+    "areaText": "Área"
+  },
+  "banners": [
+    {
+      "img": "/images/casas/banner-casas/construye-tu-casa.jpg",
+      "alt": "construye tu casa",
+      "title": "construye tu casa"
+    },
+    {
+      "img": "/images/casas/banner-casas/construye-tu-hogar.jpg",
+      "alt": "construye tu hogar",
+      "title": "construye tu hogar"
+    },
+    {
+      "img": "/images/casas/banner-casas/diseños-exclusivos.jpg",
+      "alt": "diseños exclusivos",
+      "title": "diseños exclusivos"
+    }
+  ],
+  "casas": [
+    {
+      "id": 1,
+      "name": "Casa Moderna Estilo Minimalista – Básica",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 125000000,
+      "description": "Estas casas se caracterizan por líneas limpias y simples, una paleta de colores neutral y detalles superfluos. Se destacan por la simplicidad y elegancia en su diseño.",
+      "description2": "Te ofrecemos la construcción de este modelo de vivienda dónde la modernidad y la exclusividad, serán parte de tu vida.",
+      "images": [{
+        "banner": "/images/casas/moderna-minimalista/casa-moderna-minimalista01.jpeg",
+        "detail_banner": "/images/casas/moderna-minimalista/casa-moderna-minimalista01.jpeg",
+        "alt": "casa moderna minimalista",
+        "gallery": [
+          {"img": "/images/casas/moderna-minimalista/casa-moderna-minimalista02.jpeg", "alt": "Casa moderna minimalista"},
+          {"img": "/images/casas/moderna-minimalista/casa-moderna-minimalista03.jpeg", "alt": "Casa moderna minimalista"},
+          {"img": "/images/casas/moderna-minimalista/casa-moderna-minimalista04.jpeg", "alt": "Casa moderna minimalista"},
+          {"img": "/images/casas/moderna-minimalista/casa-moderna-minimalista05.jpeg", "alt": "Casa moderna minimalista"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenidades",
+        "items": [
+          {"char": "3 habitaciones"},
+          {"char": "2 baños"},
+          {"char": "Sala"},
+          {"char": "Cocina"},
+          {"char": "Patio"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 2,
+      "name": "Casa Elegant & Modern House  2 Pisos",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 165000000,
+      "description": "La casa moderna y elegante combina elementos minimalistas con una sofisticación sutil, revela su diseño inteligente y su atención al detalle.",
+      "description2": "Te ofrecemos la construcción de este modelo de vivienda dónde la modernidad y la exclusividad, serán parte de tu vida.",
+      "images": [{
+        "banner": "/images/casas/elegant-modern-house/elegant-moden-house.jpg",
+        "detail_banner": "/images/casas/elegant-modern-house/elegant-moden-house.jpg",
+        "alt": "Casa elegante y moderna - 2 pisos",
+        "gallery": [
+          {"img": "/images/casas/elegant-modern-house/elegant-moden-house.jpg", "alt": "Casa elegante y moderna"},
+          {"img": "/images/casas/elegant-modern-house/elegant-moden-house02.jpg", "alt": "Casa elegante y moderna"},
+          {"img": "/images/casas/elegant-modern-house/elegant-moden-house02.jpg", "alt": "Casa elegante y moderna"},
+          {"img": "/images/casas/elegant-modern-house/elegant-moden-house.jpg", "alt": "Casa elegante y moderna"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenidades",
+        "items": [
+          {"char": "4 habitaciones"},
+          {"char": "2 baños"},
+          {"char": "Sala"},
+          {"char": "Cocina"},
+          {"char": "Parqueo"},
+          {"char": "Zona de labores"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 3,
+      "name": "Casa Modern House 2 Pisos",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 165000000,
+      "description": "Dalca Group ofrece un diseño arquitectónico creado a través de un concepto innovador y auténtico. Nuestra constructora tiene como prioridad la confianza, desarrollo y profesionalismo garantizamos la valorización y el rendimiento de tu inversión.",
+      "description2": "",
+      "images": [{
+        "banner": "/images/casas/modern-house/modern-house.JPG",
+        "detail_banner": "/images/casas/modern-house/modern-house.JPG",
+        "alt": "Casa moderna 2 pisos",
+        "gallery": [
+          {"img": "/images/casas/modern-house/modern-house.JPG", "alt": "casa moderna"},
+          {"img": "/images/casas/modern-house/modern-house.JPG", "alt": "casa moderna"},
+          {"img": "/images/casas/modern-house/modern-house.JPG", "alt": "casa moderna"},
+          {"img": "/images/casas/modern-house/modern-house.JPG", "alt": "casa moderna"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenidades",
+        "items": [
+          {"char": "2 habitaciones"},
+          {"char": "1 habitación de servicio"},
+          {"char": "Sala"},
+          {"char": "Cocina"},
+          {"char": "Zona de labores"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 4,
+      "name": "Casa Campestre",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 350000000,
+      "description": "No esperes más. ¡VIVE LA EXPERIENCIA y dale GARANTÍA a tu futuro, a través de inversiones seguras en bienes raíces! Invierte en este espacio mágico y natural.",
+      "description2": "En este proyecto encontrarás bienestar, exclusividad en espacios increíbles y con amenidades únicas para ti.",
+      "images": [{
+        "banner": "/images/casas/casa-campestre/casa-campestre-01.jpg",
+        "detail_banner": "/images/casas/casa-campestre/casa-campestre-01.jpg",
+        "alt": "Casa Campestre",
+        "gallery": [
+          {"img": "/images/casas/casa-campestre/casa-campestre-02.jpg", "alt": "casa campestre"},
+          {"img": "/images/casas/casa-campestre/casa-campestre-03.jpg", "alt": "casa campestre"},
+          {"img": "/images/casas/casa-campestre/casa-campestre-04.jpg", "alt": "casa campestre"},
+          {"img": "/images/casas/casa-campestre/casa-campestre-01.jpg", "alt": "casa campestre"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenidades",
+        "items": [
+          {"char": "Casa moderna"},
+          {"char": "Terraza"},
+          {"char": "Mirador"},
+          {"char": "Piscina al infinito"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 5,
+      "name": "Casa Campestre + altillo",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 180000000,
+      "description": "Acabados de calidad y materiales elegidos para crear un armonioso concepto vanguardista con todas las amenidades. Queremos que puedas lograr tus objetivos con nuestros proyectos, ubicados estratégicamente en zonas exclusivas, pensadas para adecuarse a tus prioridades, cumpliendo con tus expectativas y alcanzado tu máximo nivel de satisfacción.",
+      "description2": "",
+      "images": [{
+        "banner": "/images/casas/casa-campestre-altillo/campestre-altillo-01.jpg",
+        "detail_banner": "/images/casas/casa-campestre-altillo/campestre-altillo-01.jpg",
+        "alt": "Casa Campresta - Altillo",
+        "gallery": [
+          {"img": "/images/casas/casa-campestre-altillo/campestre-altillo-02.jpg", "alt": "casa campestre - altillo"},
+          {"img": "/images/casas/casa-campestre-altillo/campestre-altillo-03.jpg", "alt": "casa campestre - altillo"},
+          {"img": "/images/casas/casa-campestre-altillo/campestre-altillo-04.jpg", "alt": "casa campestre - altillo"},
+          {"img": "/images/casas/casa-campestre-altillo/campestre-altillo-01.jpg", "alt": "casa campestre - altillo"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenidades",
+        "items": [
+          {"char": "3 habitaciones"},
+          {"char": "2 baños"},
+          {"char": "Sala"},
+          {"char": "Cocina"},
+          {"char": "Zona de labores"},
+          {"char": "Piscina"},
+          {"char": "Zona BBQ"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 6,
+      "name": "Casa Minimalista de 2 Pisos",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 165000000,
+      "description": "Son una fusión perfecta de estilo, funcionalidad y confort. Estas casas se destacan por su sofisticación y belleza.  Nuestro propósito es brindarte la oportunidad de crear caminos que te lleven a alcanzar el anhelo de invertir de manera segura en Dalca Group.",
+      "description2": "",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "alt": "Casa Minimalista de 2 pisos",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png", "alt": "Casa Minimalista de 2 pisos"},
+          {"img": "/images/details/casas/img-dev2.png", "alt": "Casa Minimalista de 2 pisos"},
+          {"img": "/images/details/casas/img-dev3.png", "alt": "Casa Minimalista de 2 pisos"},
+          {"img": "/images/details/casas/img-dev4.png", "alt": "Casa Minimalista de 2 pisos"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenidades",
+        "items": [
+          {"char": "2 habitaciones"},
+          {"char": "2 baños"},
+          {"char": "Sala"},
+          {"char": "Cocina"},
+          {"char": "Parqueo"},
+          {"char": "Zona de labores"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    }
+  ]
+}

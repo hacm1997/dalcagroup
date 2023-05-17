@@ -1,0 +1,103 @@
+{
+  "headData": {
+    "keywords": "hardware, screw, screws, wires, chains, cables, rods, nuts, steel, stainless, washers, consumables, screws",
+    "description": "We are a company specialized in the provision of high quality fasteners with international certifications. We offer a high rotating stock to help meet your goals on time.",
+    "title": "Accomplices in planning and building your future"
+  },
+  "navbar": {
+    "logo": {
+      "srcImg": "/images/logos/dalca-logo-blanco.png",
+      "srcImgBlue": "/images/logos/dalca-logo-azul.png",
+      "alt": "dalca-logo",
+      "url": "/"
+    },
+    "items": [
+      {
+        "name": "Lots",
+        "url": "/",
+        "active": "",
+        "secondActive": "lotes",
+        "display": true
+      },
+      {
+        "name": "Houses",
+        "url": "/casas",
+        "active": "casas",
+        "secondActive": "casas",
+        "display": true
+      },
+      {
+        "name": "Projects",
+        "url": "/proyectos",
+        "active": "proyectos",
+        "secondActive": "proyectos",
+        "display": true
+      }
+    ],
+    "bookingBtn": {
+      "name": "Contact",
+      "url": "https://api.whatsapp.com/send?phone=573042811369&text=Hola%20Dalca%20Group%20%F0%9F%8F%A0%F0%9F%8D%83.%20Estaba%20visitando%20su%20sitio%20web%20y%20estoy%20interesad@%20en%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos%20y%20servicios%20que%20ustedes%20ofrecen.%20"
+    }
+  },
+  "comments": {
+    "title": "What our clients say"
+  },
+  "contact":{
+    "text": "Send us your information and we will contact you",
+    "name": "Name and surname",
+    "phone": "Contact number",
+    "email": "E-mail",
+    "send": "Send"
+  },
+  "footer": {
+    "aboutUs": {
+      "aboutUsTitle": "About Us",
+      "aboutUsContent": "Dalca Group is a construction company, an ally for the planning and construction of your future. We offer lots, projects and houses strategically located in exclusive areas, designed to suit your priorities, meeting your expectations and reaching your highest level of satisfaction."
+    },
+    "contact": {
+      "iconTitle": "contacto-dalca",
+      "contactTitle": "Contact",
+      "contactEmail": "dalcagroupventas@gmail.com",
+      "phones": "Phone",
+      "contactNumber": "(+ 57) 304 2811369"
+    },
+    "address": {
+      "iconTitle": "direccion-dalca",
+      "street": "Dg. 21 #52-147, Alto Bosque",
+      "city": "Cartagena, Bolívar, Colombia"
+    },
+    "schedule": {
+      "iconTitle": "horario-dalca",
+      "scheduleTitle": "Hours of Operation",
+      "hours": "Monday to Friday 8:00 am to 8:00 pm",
+      "saturday": "Saturday 8:00 am to 5:00 pm",
+      "sundays": "Sunday 8:00 am to 3:00 pm"
+    },
+    "socialMedia": {
+      "socialMediaTitle": "Social networks",
+      "urls": {
+        "instagram": {
+          "title": "dalca-instagram",
+          "url": "https://www.instagram.com/"
+        },
+        "facebook": {
+          "title": "dalca-facebook",
+          "url": "https://www.facebook.com/"
+        },
+        "tiktok": {
+          "title": "dalca-linkedin",
+          "url": "https://www.tiktok.com/"
+        },
+        "youtube": {
+          "title": "dalca-linkedin",
+          "url": "https://www.youtube.com/"
+        }
+      }
+    },
+    "final": {
+      "term": "Terms and conditions - Dalca Group",
+      "by": "Developed by"
+    }
+  },
+  "simpleUrlWhatsapp": "https://api.whatsapp.com/send?phone=573042811369&text=Hola%20Dalca%20Group%20%F0%9F%8F%A0%F0%9F%8D%83.%20Estaba%20visitando%20su%20sitio%20web%20y%20estoy%20interesad@%20en%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos%20y%20servicios%20que%20ustedes%20ofrecen.%20"
+}

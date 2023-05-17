@@ -1,0 +1,52 @@
+.card_general{
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+}
+.description p{
+    padding: 10px;
+    color: #0B0C44;
+}
+
+.items{
+    padding-top: 20px;
+}
+.items p{
+    line-height: 20px;
+}
+.items p:nth-child(4){
+    line-height: 40px;
+}
+.subtitle{
+    color: #0B0C44;
+    font-weight: bold;
+    font-size: 13px;
+}
+.area{
+    font-size: 40px;
+    color: #5A5A5A;
+}
+.price{
+    font-size: 40px;
+    color: #1D6FB7;
+    font-weight: bold;
+    margin-top: -10px;
+}
+
+.location p{
+    padding: 20px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #5A5A5A;
+}
+
+/* RESPONSIVE */
+@media (max-width: 680px) {
+    .card_general{
+        grid-template-columns: 1fr;
+    }
+    .items{
+        padding-top: 0px;
+        margin-top: -30px;
+    }
+}

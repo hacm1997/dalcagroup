@@ -1,0 +1,104 @@
+{
+  "title": "We are your best investment option, we trace paths that lead you to build and value your future",
+  "title2": "Reserve your country lot with $500 thousand",
+  "text": "Our Available Lots",
+  "areaName": "Area",
+  "details": {
+    "area": "Total Area",
+    "price": "Value",
+    "location": "Location",
+    "share": "Share social networks",
+    "seeMore": "See more photos"
+  },
+  "filter": {
+    "name":"Filters",
+    "priceText": "Price",
+    "price_step": "5000000",
+    "minText": "Minimum",
+    "minValue": "75000000",
+    "maxText": "Maximum",
+    "maxValue": "120000000",
+    "areaText": "Area only 300 m²"
+  },
+  "banners": [
+    {
+      "img": "/images/lotes/banner-lotes/en/lot-countryside.jpg",
+      "alt": "lot countryside",
+      "title": "lot countryside"
+    },
+    {
+      "img": "/images/lotes/banner-lotes/en/investment.jpg",
+      "alt": "investment",
+      "title": "investment"
+    },
+    {
+      "img": "/images/lotes/banner-lotes/en/build-your-future.jpg",
+      "alt": "build your future",
+      "title": "build your future"
+    }
+  ],
+  "lotes": [
+    {
+      "id": 1,
+      "name": "Lots Campestre Los Tamarindos",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 75000000,
+      "description": "Building your future in a well located lot is an excellent long term investment, in which you will obtain a better quality of life. Our lots have access to the necessary services such as transportation, security, infrastructure, education and entertainment. In addition, you will enjoy incredible amenities such as: Collective swimming pool, club house with 2 communal lounges, gym, sauna, Turkish bath, billiards, courts, green areas, luxury vintage style concierge, electricity and water services.",
+      "images": [{
+          "banner": "/images/lotes/tamarindos/tamarindos-img1.jpg",
+          "detail_banner": "/images/lotes/tamarindos/tamarindos-img1.jpg",
+          "alt": "los tamariandos",
+          "gallery": [
+            {"img": "/images/lotes/tamarindos/tamarindos-img2.jpg", "alt": "los tamariandos vista 1"},
+            {"img": "/images/lotes/tamarindos/tamarindos-img3.jpg", "alt": "los tamariandos vista 2"},
+            {"img": "/images/lotes/tamarindos/tamarindos-img1.jpg", "alt": "los tamariandos"},
+            {"img": "/images/lotes/tamarindos/tamarindos-img2.jpg", "alt": "los tamariandos vista 1"}
+          ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 2,
+      "name": "Lot + Kiosk + Pool",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 100000000,
+      "description": "At Dalca Group we think about your entertainment and relaxation. Your dream home will have a gazebo and swimming pool that will allow you to enjoy outdoor spaces, such as walking and jogging trails. These spaces allow you to add character and beauty to the property, which can be an excellent selling point for the owners.",
+      "images": [{
+        "banner": "/images/lotes/lote-kiosko-piscina/lkp1.jpg",
+        "detail_banner": "/images/lotes/lote-kiosko-piscina/lkp1.jpg",
+        "alt": "Lote-Kiosko-Piscina",
+        "gallery": [
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp2.jpg", "alt": "Lote Kiosko Pircina Vista 1"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp3.jpg", "alt": "Lote Kiosko Pircina Vista 2"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp4.jpg", "alt": "Lote Kiosko Pircina Vista 3"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp5.jpg", "alt": "Lote Kiosko Pircina Vista 4"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp6.jpg", "alt": "Lote Kiosko Pircina Vista 5"},
+          {"img": "/images/lotes/lote-kiosko-piscina/lkp7.jpg", "alt": "Lote Kiosko Pircina Vista 6"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 3,
+      "name": "Lote + Mini Chalet + Jacuzzi",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 120000000,
+      "description": "Located on the outskirts of Cartagena in an exclusive area of high value, it is a project that brings together all the charm for you to enjoy nature, tranquility and an extraordinary view from your place of rest.",
+      "images": [{
+        "banner": "/images/lotes/mini-chalet/mini-chalet-1.jpg",
+        "detail_banner": "/images/lotes/mini-chalet/mini-chalet-1.jpg",
+        "alt:": "Mini Chalet",
+        "gallery": [
+          {"img": "/images/lotes/mini-chalet/mini-chalet-1.jpg","alt": "mini-chalet"},
+          {"img": "/images/lotes/mini-chalet/mini-chalet-2.jpg","alt": "mini-chalet"},
+          {"img": "/images/lotes/mini-chalet/mini-chalet-2.jpg","alt": "mini-chalet"},
+          {"img": "/images/lotes/mini-chalet/mini-chalet-1.jpg","alt": "mini-chalet"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    }
+  ]
+}

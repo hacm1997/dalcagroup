@@ -1,0 +1,171 @@
+{
+  "title": "Our projects",
+  "title2": "from $80.000.000",
+  "text": "Our projects",
+  "areaName": "Area",
+  "details": {
+    "area": "Total area",
+    "price": "Value",
+    "location": "Location",
+    "share": "Share social networks",
+    "seeMore": "See more "
+  },
+  "filter": {
+    "name":"Filters",
+    "priceText": "Price",
+    "price_step": "5000000",
+    "minText": "Minimum",
+    "minValue": "80000000",
+    "maxText": "Maximun",
+    "maxValue": "350000000",
+    "areaText": "Area"
+  },
+  "banners": [
+    {
+      "img": "/images/proyectos/banner-proyectos/en/invest-in-your-project.jpg",
+      "alt": "invest in your project",
+      "title": "invest in your project"
+    },
+    {
+      "img": "/images/proyectos/banner-proyectos/en/follow-your-dreams.jpg",
+      "alt": "follow your dreams",
+      "title": "follow your dreams"
+    },
+    {
+      "img": "/images/proyectos/banner-proyectos/en/projects-virtues.jpg",
+      "alt": "projects virtues",
+      "title": "projects virtues"
+    }
+  ],
+  "proyectos": [
+    {
+      "id": 1,
+      "name": "Parcelación Los Cerritos",
+      "location": "Turbaco",
+      "area": 300,
+      "price": 180000000,
+      "description": "This project has a privileged location where you can appreciate a panoramic view of the city of Cartagena, located on the outskirts of the municipality of Turbaco Bolivar.",
+      "description2": "The sector is integrated with country estates, urban projects and recreational centers. Los Cerritos is characterized by its height, trees, flora, fauna and good environment.",
+      "images": [{
+        "banner": "/images/proyectos/chalet-cerritos/Chalet_cerritos2.jpg",
+        "detail_banner": "/images/proyectos/chalet-cerritos/Chalet_cerritos2.jpg",
+        "alt": "Parcelación Los Cerritos",
+        "gallery": [
+          {"img": "/images/proyectos/chalet-cerritos/Chalet_cerritos1.jpg", "alt": "Parcelación Los Cerritos"},
+          {"img": "/images/proyectos/chalet-cerritos/Chalet_cerritos3.jpg", "alt": "Parcelación Los Cerritos"},
+          {"img": "/images/proyectos/chalet-cerritos/Chalet_cerritos4.jpg", "alt": "Parcelación Los Cerritos"},
+          {"img": "/images/proyectos/chalet-cerritos/Chalet_cerritos5.jpg", "alt": "Parcelación Los Cerritos"},
+          {"img": "/images/proyectos/chalet-cerritos/Chalet_cerritos6.jpg", "alt": "Parcelación Los Cerritos"},
+          {"img": "/images/proyectos/chalet-cerritos/Chalet_cerritos7.jpg", "alt": "Parcelación Los Cerritos"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenities",
+        "items": [
+          {"char": "Lot"},
+          {"char": "Villa"},
+          {"char": "Swimming pool"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 2,
+      "name": "Coralina Club",
+      "location": "Turbaco",
+      "area": 450,
+      "price": 80000000,
+      "description": "We offer you lots with an exclusive location in Turbaco, an incredible view of Cartagena and very close to the botanical garden.",
+      "description2":"",
+      "images": [{
+        "banner": "/images/proyectos/coralina/coralina-club-4.jpg",
+        "detail_banner": "/images/proyectos/coralina/coralina-club-4.jpg",
+        "alt": "Coralina Club",
+        "gallery": [
+          {"img": "/images/proyectos/coralina/coralina-club-1.jpg", "alt": "Coralina Club"},
+          {"img": "/images/proyectos/coralina/coralina-club-2.jpg", "alt": "Coralina Club"},
+          {"img": "/images/proyectos/coralina/coralina-club-3.jpg", "alt": "Coralina Club"},
+          {"img": "/images/proyectos/coralina/coralina-club-5.jpg", "alt": "Coralina Club"},
+          {"img": "/images/proyectos/coralina/coralina-club-6.jpg", "alt": "Coralina Club"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenities",
+        "items": [
+          {"char": "Closed Urbanization"},
+          {"char": "Paved"},
+          {"char": "Lot"}
+
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 3,
+      "name": "Holanda Club House",
+      "location": "Turbaco",
+      "area": 220,
+      "price": 100000000,
+      "description": "High value project for sale of lots located in Turbaco, Bolivar, 5 minutes from Cartagena in a natural environment designed in the comfort and tranquility you deserve; easy access, and with incredible amenities to enjoy.",
+      "description2": "",
+      "images": [{
+        "banner": "/images/proyectos/holanda/holanda.jpg",
+        "detail_banner": "/images/proyectos/holanda/holanda.jpg",
+        "alt": "Casa moderna 2 pisos",
+        "gallery": [
+          {"img": "/images/proyectos/holanda/holanda.jpg", "alt": "Holanda"},
+          {"img": "/images/proyectos/holanda/holanda.jpg", "alt": "Holanda"},
+          {"img": "/images/proyectos/holanda/holanda.jpg", "alt": "Holanda"},
+          {"img": "/images/proyectos/holanda/holanda.jpg", "alt": "Holanda"}
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenities",
+        "items": [
+          {"char": "Entrance gate with electric grille"},
+          {"char": "Communal living room"},
+          {"char": "Turkish bath"},
+          {"char": "Sauna"},
+          {"char": "Communal swimming pool"},
+          {"char": "Children's area"},
+          {"char": "Deep well water point"},
+          {"char": "Electric power with poles and transformer"},
+          {"char": "Paved roads"}
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    },
+    {
+      "id": 4,
+      "name": "Lotes Tecanáutica",
+      "location": "High value area",
+      "area": 220,
+      "price": 100000000,
+      "description": "Meet this wonderful project located in a high value area, whose main objective is to provide tranquility and harmony with nature.\nBuilding in these spaces allows us to provide a greater sense of peace due to the distance from urban areas and the beginning of an experience full of comfort and well-being.",
+      "description2": "Direct financing with us, without banks or financial institutions. And best of all, 0% interest.",
+      "images": [{
+        "banner": "/images/proyectos/Tecanautica/Tecanautica1.jpg",
+        "detail_banner": "/images/proyectos/Tecanautica/Tecanautica1.jpg",
+        "alt": "Tecanautica",
+        "gallery": [
+          {"img": "/images/proyectos/Tecanautica/Tecanautica2.jpg", "alt": "Tecanautica"},
+          {"img": "/images/proyectos/Tecanautica/Tecanautica3.jpg", "alt": "Tecanautica"},
+          {"img": "/images/proyectos/Tecanautica/Tecanautica4.jpg", "alt": "Tecanautica"},
+          {"img": "/images/proyectos/Tecanautica/Tecanautica5.jpg", "alt": "Tecanautica"},
+          {"img": "/images/proyectos/Tecanautica/Tecanautica6.jpg", "alt": "Tecanautica"}
+
+        ]
+      }],
+      "characteristics": {
+        "title": "Amenities",
+        "items": [
+          {"char": "Porterage"},
+          {"char": "Services"},
+          {"char": "High value zone"}
+
+        ]
+      },
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15700.542207832523!2d-75.41485794999998!3d10.33103545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef620e02fa9013f%3A0x1f09c5899b5832bc!2sTurbaco%2C%20Bol%C3%ADvar!5e0!3m2!1ses-419!2sco!4v1680662799108!5m2!1ses-419!2sco"
+    }
+  ]
+}

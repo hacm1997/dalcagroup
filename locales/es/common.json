@@ -1,0 +1,103 @@
+{
+  "headData": {
+    "keywords": "venta de casa,venta de lote,venta casa,casas en venta,lotes en venta,casa venta,venta de inmueble,venta de terreno,venta de vivienda,terrenos en venta,casas de venta,parcelas en venta,vender casa,se vende casa,casas a la venta,inmuebles en venta,parcela en venta,vender mi casa,casas para la venta,venta de piso,compra y venta de casas,vender una casa,compra venta de inmuebles,propiedad en venta,venta de chalet,venta de propiedad,venta chalet,venta de parcelas,casas en venta cerca de mi,comprar piso,piso en venta,viviendas en venta,comprar terrenos,venta de casas cerca de mi,busco casa para comprar,venta de casas en,casas de venta en,busco casa en venta,comprar chalet,vender desde casa,comprar parcela,comprar inmuebles,venta de terrenos en,lotes de venta,compra venta inmuebles,buscar terrenos en venta,casa de chalet,casas y chalets en venta,venta de un inmueble,parcelas en,lotes para la venta,se vende chalet,comprar un inmueble,chalets en venta en,terrenos y parcelas en venta,parcelas y terrenos,venta de chalets en,venta de una propiedad,venta de lotes en,lotes en venta en,venta de parcelas en,parcelas en venta en,busco parcela para comprar,venta las parcelas.",
+    "description": "Queremos brindarte la oportunidad de crear caminos que te lleven a invertir  de manera segura con proyectos en zonas exclusivas y adecuados a tus prioridades.",
+    "title": "Cómplices en planeación y construcción de tu futuro"
+  },
+  "navbar": {
+    "logo": {
+      "srcImg": "/images/logos/dalca-logo-blanco.png",
+      "srcImgBlue": "/images/logos/dalca-logo-azul.png",
+      "alt": "dalca-logo",
+      "url": "/"
+    },
+    "items": [
+      {
+        "name": "Lotes",
+        "url": "/",
+        "active": "",
+        "secondActive": "lotes",
+        "display": true
+      },
+      {
+        "name": "Casas",
+        "url": "/casas",
+        "active": "casas",
+        "secondActive": "casas",
+        "display": true
+      },
+      {
+        "name": "Proyectos",
+        "url": "/proyectos",
+        "active": "proyectos",
+        "secondActive": "proyectos",
+        "display": true
+      }
+    ],
+    "bookingBtn": {
+      "name": "Contactar",
+      "url": "https://api.whatsapp.com/send?phone=573042811369&text=Hola%20Dalca%20Group%20%F0%9F%8F%A0%F0%9F%8D%83.%20Estaba%20visitando%20su%20sitio%20web%20y%20estoy%20interesad@%20en%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos%20y%20servicios%20que%20ustedes%20ofrecen.%20"
+    }
+  },
+  "comments": {
+    "title": "Lo que dicen nuestros clientes"
+  },
+  "contact":{
+    "text": "Envíanos tus datos y nos pondremos en contacto contigo",
+    "name": "Nombre y apellido",
+    "phone": "Número de contacto",
+    "email": "Correo electrónico",
+    "send": "Enviar"
+  },
+  "footer": {
+    "aboutUs": {
+      "aboutUsTitle": "Sobre nosotros",
+      "aboutUsContent": "Dalca Group es una constructora, aliada para la planeación y construcción de tu futuro. Ofrecemos lotes, proyectos y casas ubicados estratégicamente en zonas exclusivas, pensadas para adecuarse a tus prioridades, cumpliendo con tus expectativas y alcanzando tu máximo nivel de satisfacción."
+    },
+    "contact": {
+      "iconTitle": "contacto-dalca",
+      "contactTitle": "Contacto",
+      "contactEmail": "dalcagroupventas@gmail.com",
+      "phones": "Teléfonos",
+      "contactNumber": "(+ 57) 304 2811369"
+    },
+    "address": {
+      "iconTitle": "direccion-dalca",
+      "street": "Dg. 21 #52-147, Alto Bosque",
+      "city": "Cartagena, Bolívar, Colombia"
+    },
+    "schedule": {
+      "iconTitle": "horario-dalca",
+      "scheduleTitle": "Horario de atención",
+      "hours": "Lunes a Viernes 8:00 am a 8:00 pm",
+      "saturday": "Sabado 8:00 am a 5:00 pm",
+      "sundays": "Domingo 8:00 am a 3:00 pm"
+    },
+    "socialMedia": {
+      "socialMediaTitle": "Redes sociales",
+      "urls": {
+        "instagram": {
+          "title": "dalca-instagram",
+          "url": "https://www.instagram.com/"
+        },
+        "facebook": {
+          "title": "dalca-facebook",
+          "url": "https://www.facebook.com/"
+        },
+        "tiktok": {
+          "title": "dalca-linkedin",
+          "url": "https://www.tiktok.com/"
+        },
+        "youtube": {
+          "title": "dalca-linkedin",
+          "url": "https://www.youtube.com/"
+        }
+      }
+    },
+    "final": {
+      "term": "Términos y condiciones - Dalca Group",
+      "by": "Desarrollado por"
+    }
+  },
+  "simpleUrlWhatsapp": "https://api.whatsapp.com/send?phone=573042811369&text=Hola%20Dalca%20Group%20%F0%9F%8F%A0%F0%9F%8D%83.%20Estaba%20visitando%20su%20sitio%20web%20y%20estoy%20interesad@%20en%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20los%20productos%20y%20servicios%20que%20ustedes%20ofrecen.%20"
+}

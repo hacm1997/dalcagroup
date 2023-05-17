@@ -1,0 +1,46 @@
+.content_title{
+    line-height: 0px;
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+.title h1{
+    display: flex;
+    align-items: center;
+    font-size: 37px;
+    color: #5A5A5A;
+}
+.title i{
+    padding-top: 5px;
+    padding-right: 15px;
+    color: #1D6FB7;
+    font-size: 12px;
+}
+.share{
+    display: inline-grid;
+    grid-template-columns: 0.5fr 1fr;
+    gap: 5px;
+    margin-top: -60px;
+    font-size: 12px;
+    color: #1D6FB7;
+}
+.share p{
+    width: 200px;
+}
+.share i{
+    color: #1D6FB7;
+}
+.share_loc{
+    text-decoration: underline;
+}
+.share_loc i{
+    transform: rotate(3.142rad);
+}
+
+/* RESPONSIVE */
+@media (max-width: 680px) {
+    .content_title h1{
+        line-height: 30px;
+    }
+}

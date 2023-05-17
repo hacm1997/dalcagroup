@@ -1,0 +1,478 @@
+{
+  "lotes": [
+    {
+      "id": 1,
+      "name": "Lote A",
+      "location": "Turbaco",
+      "area": 20,
+      "price": 15000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+          "banner": "/images/home/lotes/banner-dev.png",
+          "detail_banner": "/images/details/lotes/lote-banner.png",
+          "gallery": [
+            {"img": "/images/details/lotes/img-dev1.png"},
+            {"img": "/images/details/lotes/img-dev2.png"},
+            {"img": "/images/details/lotes/img-dev3.png"},
+            {"img": "/images/details/lotes/img-dev4.png"},
+            {"img": "/images/details/lotes/img-dev3.png"},
+            {"img": "/images/details/lotes/img-dev2.png"}
+          ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 2,
+      "name": "Lote B",
+      "location": "Turbaco",
+      "area": 30,
+      "price": 15000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 3,
+      "name": "Lote C",
+      "location": "Turbaco",
+      "area": 40,
+      "price": 25000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 4,
+      "name": "Lote D",
+      "location": "Turbaco",
+      "area": 50,
+      "price": 30000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 5,
+      "name": "Lote E",
+      "location": "Turbaco",
+      "area": 60,
+      "price": 48000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 6,
+      "name": "Lote F",
+      "location": "Turbaco",
+      "area": 70,
+      "price": 50000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 7,
+      "name": "Lote G",
+      "location": "Turbaco",
+      "area": 80,
+      "price": 37000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 8,
+      "name": "Lote H",
+      "location": "Turbaco",
+      "area": 90,
+      "price": 55000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "name": "banner-dev",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 9,
+      "name": "Lote I",
+      "location": "Turbaco",
+      "area": 95,
+      "price": 53000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/home/lotes/banner-dev.png",
+        "detail_banner": "/images/details/lotes/lote-banner.png",
+        "name": "banner-dev",
+        "gallery": [
+          {"img": "/images/details/lotes/img-dev1.png"},
+          {"img": "/images/details/lotes/img-dev2.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev4.png"},
+          {"img": "/images/details/lotes/img-dev3.png"},
+          {"img": "/images/details/lotes/img-dev2.png"}
+        ]
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    }
+  ],
+  "casas": [
+    {
+      "id": 1,
+      "name": "Lote Campestre A",
+      "location": "Turbaco",
+      "area": 100,
+      "price": 90000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 2,
+      "name": "Lote Campestre B",
+      "location": "Turbaco",
+      "area": 120,
+      "price": 100000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 3,
+      "name": "Lote Campestre C",
+      "location": "Turbaco",
+      "area": 140,
+      "price": 90000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 4,
+      "name": "Lote Campestre D",
+      "location": "Turbaco",
+      "area": 150,
+      "price": 120000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 5,
+      "name": "Lote Campestre E",
+      "location": "Turbaco",
+      "area": 160,
+      "price": 130000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 6,
+      "name": "Lote Campestre F",
+      "location": "Turbaco",
+      "area": 170,
+      "price": 180000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 7,
+      "name": "Lote Campestre G",
+      "location": "Turbaco",
+      "area": 180,
+      "price": 220000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": 2,
+        "double_bed": 2,
+        "tiny_bed": 1,
+        "sofa_bed": 1,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    },
+    {
+      "id": 8,
+      "name": "Lote Campestre H",
+      "location": "Turbaco",
+      "area": 190,
+      "price": 250000000,
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.",
+      "images": [{
+        "banner": "/images/casas/casa-dev.png",
+        "detail_banner": "/images/details/casas/casa-banner.png",
+        "name": "banner-dev",
+        "gallery": [
+          {"img": "/images/details/casas/img-dev1.png"},
+          {"img": "/images/details/casas/img-dev2.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev4.png"},
+          {"img": "/images/details/casas/img-dev3.png"},
+          {"img": "/images/details/casas/img-dev2.png"}
+        ]
+      }],
+      "characteristics": [{
+        "bedrooms": true,
+        "double_bed": true,
+        "tiny_bed": true,
+        "sofa_bed": true,
+        "wifi": true,
+        "parking": true,
+        "kitchen": true,
+        "air_conditioner": true,
+        "seaview": true,
+        "pool": true,
+        "access_beach": true,
+        "washer": true
+      }],
+      "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.415450071203!2d-75.52177925036311!3d10.388540269039318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef6255758d41abb%3A0xabadfce8e444b0!2sKRU!5e0!3m2!1sen!2sco!4v1672147111337!5m2!1sen!2sco"
+    }
+  ]
+}

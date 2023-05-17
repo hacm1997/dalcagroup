@@ -1,0 +1,4 @@
+dalcagroup:
+  component: "@sls-next/serverless-component@latest"
+  inputs:
+    domain: [ "dalcagroup.com" ]

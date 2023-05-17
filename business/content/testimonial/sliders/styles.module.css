@@ -1,0 +1,129 @@
+.general .grid .content_slider {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.sliders {
+    height: auto;
+    background-size: 100% 100%;
+    padding: 29px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.content_swiper{
+    width: 850px;
+}
+
+.swiper img {
+    max-width: 100%;
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+    object-position: center;
+}
+.info{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.swiper {
+    overflow:hidden;
+}
+
+.swiper .info {
+    object-fit: contain;
+    padding-left: 20px;
+}
+
+.swiper div p {
+    font-size: 16px;
+    color: #5A5A5A;
+    font-weight: bold;
+}
+
+.prev_btn{
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.prev_btn a i{
+    color: #1D6FB7;
+    cursor: pointer;
+    transition: 1s;
+}
+.prev_btn a i:hover{
+    font-size: 90px;
+}
+
+.next_btn{
+    display: flex;
+    align-items: center;
+    font-size: 80px;
+}
+.next_btn a i{
+    color: #1D6FB7;
+    cursor: pointer;
+    transition: 1s;
+}
+.next_btn a i:hover{
+    font-size: 90px;
+}
+
+.descriptions{
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 12px !important;
+    color: #5A5A5A;
+}
+
+.ratings{
+    color: #1D6FB7;
+}
+
+.username{
+    display: flex;
+    justify-content: left;
+}
+
+/* RESPONSIVE */
+@media (max-width: 1010px) {
+    .content_slider{
+        display: flex !important;
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: 2fr 1fr 2fr;
+    }
+    .prev_btn a i{
+        
+        font-size: 60px !important;
+
+    }
+    .next_btn a i{
+        font-size: 60px !important;
+    }
+    .content_swiper{
+        width: 500px;
+    }
+}
+
+@media (max-width: 786px) {
+    
+    .content_swiper{
+        width: 350px;
+    }
+}
+
+@media (max-width: 486px) {
+    .content_swiper{
+        width: 280px;
+    }
+    .content_slider{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        grid-template-columns: 1fr !important;
+    }
+
+}

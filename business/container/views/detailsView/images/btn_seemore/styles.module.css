@@ -1,0 +1,59 @@
+.ver_mas {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background-color: #ffffff;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 400;
+}
+
+.ver_mas:hover {
+    background-color: #1D6FB7;
+    color: #ffffff;
+}
+
+.ver_mas span {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.ver_mas i {
+    color: #1D6FB7;
+}
+
+.btn_close{
+    position: absolute;
+    left: 95%;
+    cursor: pointer;
+    z-index: 999;
+}
+.btn_close a{
+    font-size: 40px;
+}
+.btn_close a i{
+    color: #FFFFFF;
+}
+
+.body{
+    background-color: transparent !important;
+}
+.modal_body{
+    margin-top: 15px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 800px) {
+    .btn_close{
+        left: 80%;
+    }
+}
+@media (max-width: 680px) {
+    .ver_mas{
+        right: 10px;
+        bottom: 40px;
+        width: 110px;
+        font-size: 12px;
+    }
+}

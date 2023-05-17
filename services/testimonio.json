@@ -1,0 +1,19 @@
+{
+    "home":[
+        {
+            "image": "/images/home/testimonios/testigo1.png",
+            "name":"Juan Amaya",
+            "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."
+        },
+        {
+            "image": "/images/home/testimonios/testigo2.png",
+            "name":"Ana Bossa",
+            "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."
+        },
+        {
+            "image": "/images/home/testimonios/testigo3.png",
+            "name":"Carmen Díaz",
+            "comment": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt."
+        }
+    ]
+}

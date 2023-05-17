@@ -1,0 +1,28 @@
+.section{
+    background-size: cover;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+.container{
+    width: 70%;
+}
+.mapa {
+    width: 100%;
+    overflow: hidden;
+}
+.mapa iframe {
+    width: 100%;
+    border: 0;
+}
+.location_map h4{
+    font-size: 30px;
+    color: #5A5A5A;
+    margin-left: 50px;
+}
